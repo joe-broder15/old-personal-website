@@ -26,7 +26,7 @@ footer{
 }
 
 .stripContainer a {
-  margin-right: 5px;
+  margin-right: 7px;
 }
 
 .stripContainer p{
@@ -36,14 +36,20 @@ footer{
   font-size: 2vh;
 }
 
+.buttonbox{
+  align-items: center;
+  justify-content: center;
+
+}
+
 footer a{
   text-decoration: none;
 }
 
 footer a img{
   color: white;
-  width: 32px;
-  height: 32px;
+  width: 3vh;
+  height: 3vh;
   filter: invert(100);
   opacity: 80%;
 
