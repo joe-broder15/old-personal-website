@@ -3,6 +3,7 @@
 body{
   padding: 0px;
   margin: 0px;
+  background-color: black;
 }
 
 
@@ -20,6 +21,7 @@ footer{
   justify-content: space-between;
   padding-right: 10vw;
   align-items:flex-start;
+
 }
 
 .stripContainer a {
@@ -60,6 +62,12 @@ footer a img{
   font-size: 20pt;
   align-self:center;
   padding: 10vw;
+  margin-bottom: 32px;
+}
+
+.text div {
+  border: white 1px solid;
+  padding: 10px 50px 10px 50px;
 }
 
 .text a{
